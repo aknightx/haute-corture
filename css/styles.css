@@ -1,0 +1,35 @@
+/* Color Palette  
+#8991A1
+#484C54
+#BFCAE0
+#525761
+#32353B
+
+
+Typography
+
+
+font-family: 'Courgette', cursive;
+font-family: 'Kaushan Script', cursive;
+
+
+Headlines:
+*/
+/* Global or Sitewide */
+
+body {
+    background: url(../img/retro_intro_@2X.png);
+}
+h1,
+h2 {
+   font-family: 'Courgette', cursive; 
+}
+
+p, blockquote {
+    font-family: 'Kaushan Script', cursive;
+}
+
+blockquote {
+    font-size: 2em;
+    
+}
